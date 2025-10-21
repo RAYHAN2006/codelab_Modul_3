@@ -1,6 +1,6 @@
 # Program Java: Menghitung Luas Lingkaran
 
-## 📘 Deskripsi
+## Deskripsi
 Program ini digunakan untuk menghitung **luas lingkaran** berdasarkan **jari-jari** yang dimasukkan oleh pengguna.  
 Rumus yang digunakan adalah:
 
@@ -10,7 +10,7 @@ Luas = \pi \times r^2
 
 ---
 
-## 🧩 Kode Program
+## Kode Program
 ```java
 import java.util.Scanner;
 
